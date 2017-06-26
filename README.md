@@ -1,3 +1,7 @@
+Electric power utilities are faced with an aging infrastructure, increasing risk of blackouts and brownouts. 
+A brownout is a drop in voltage in an electrical power supply, so named because it typically causes lights to dim. Utilities also face costly unplanned maintenance and rising costs.Utilities are looking for ways to address these issues in order to improve the reliability of electric power delivery while at the same time reducing costs. By using thermal imaging cameras and automation software, future equipment failures can be detected anytime, day or night, at a remote monitoring location. The net effect is increased reliability and reduced cost.
+
+
 # 1) Thermal WebApps with PHP 
 ## Thermal Image Browser & Location
 
