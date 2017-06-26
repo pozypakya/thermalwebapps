@@ -1,10 +1,10 @@
-#Problem Statement
+#	Problem Statement
 
 Electric power utilities are faced with an aging infrastructure, increasing risk of blackouts and brownouts. 
 A brownout is a drop in voltage in an electrical power supply, so named because it typically causes lights to dim. Utilities also face costly unplanned maintenance and rising costs.Utilities are looking for ways to address these issues in order to improve the reliability of electric power delivery while at the same time reducing costs. By using thermal imaging cameras and automation software, future equipment failures can be detected anytime, day or night, at a remote monitoring location. The net effect is increased reliability and reduced cost.
 
 
-#Proposed Solution
+#	Proposed Solution
 
 *	Development of a mobile application to capture thermal images.
 *	Taking images from various TM Utilities ( MSAN, DSLAM, CABINETS, etc. )  
@@ -14,7 +14,7 @@ A brownout is a drop in voltage in an electrical power supply, so named because 
 *	Clustering the temperature matrix and getting the temperature reading (min, max, average).
 *	Thermal image gallery display via OpenShift (PHP Application Hosting)
 
-#Software Development
+#	Software Development
 
 ## 1) Thermal WebApps with PHP 
 ### Thermal Image Browser & Location
