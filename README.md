@@ -44,6 +44,7 @@ This is a collection of functions for assisting in converting extracted raw data
 
 #	Git command
 
+*	https://git-scm.com/downloads
 *	git add *
 *	git commit -m "first commit" *
 *	git push
