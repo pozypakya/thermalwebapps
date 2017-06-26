@@ -16,6 +16,8 @@ A brownout is a drop in voltage in an electrical power supply, so named because 
 
 #	Software Development
 
+The software development consist into 3 types of software development as follows :-
+
 ## 1) Thermal WebApps with PHP 
 ### Thermal Image Browser & Location
 
