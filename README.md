@@ -1,8 +1,8 @@
-# Thermal WebApps with PHP : Thermal Image Browser
+# Thermal WebApps with PHP : Thermal Image Browser & Location
 
 This is a collection of functions for assisting in converting extracted raw data from infrared thermal images and converting them to estimate temperatures using standard equations in thermography. Provides an open source proxy tool for assisting with infrared thermographic analysis. The version here on github is the current, development version. 
 
-# Thermal Android Apps with JAVA : Thermal Image Capture
+# Thermal Android Apps with JAVA : Thermal Image Capture & Uploader
 
 This is a collection of functions for assisting in converting extracted raw data from infrared thermal images and converting them to estimate temperatures using standard equations in thermography. Provides an open source proxy tool for assisting with infrared thermographic analysis. The version here on github is the current, development version. 
 
